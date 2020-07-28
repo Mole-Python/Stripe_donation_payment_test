@@ -1,3 +1,3 @@
 # Stripe_donation_payment_test
 
-Open index.html in browser and run app.py in terminal to start in dbug mode
+Open index.html in browser and run app.py in terminal to start in debug mode
